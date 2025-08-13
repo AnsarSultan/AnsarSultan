@@ -7,18 +7,11 @@ I am an enthusiastic Computer Science graduate with a passion for **backend deve
 ---
 
 ## 🚀 Skills
+ 
+Front-End: ReactJS, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS  
+Back-End: PHP, Laravel, Node.js, Express.js, MySQL, SQL, MongoDB, RESTful APIs 
+Tools: Git, GitHub, Postman, MVC Architecture, Responsive Design
 
-**Frontend:**  
-- HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, ReactJS  
-
-**Backend:**  
-- PHP, Laravel, Node.js, Express.js  
-
-**Databases:**  
-- MySQL, SQL, MongoDB  
-
-**Tools & Technologies:**  
-- Git, GitHub, Postman, REST APIs, MVC Architecture, Responsive Design  
 
 ---
 
