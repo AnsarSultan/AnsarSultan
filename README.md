@@ -4,16 +4,12 @@
 
 I am an enthusiastic Computer Science graduate with a passion for **backend development**, **database design**, and building **scalable full-stack web applications**. I have hands-on experience in creating real-world systems with secure authentication, role-based access, and clean, responsive UI/UX.
 
----
-
 ## 🚀 Skills
  
 Front-End: ReactJS, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS  
 Back-End: PHP, Laravel, Node.js, Express.js, MySQL, SQL, MongoDB, RESTful APIs 
 Tools: Git, GitHub, Postman, MVC Architecture, Responsive Design
 
-
----
 
 ## 💼 Experience
 
@@ -22,7 +18,6 @@ Tools: Git, GitHub, Postman, MVC Architecture, Responsive Design
 - Worked on CRUD operations, authentication, and database management  
 - Built scalable modules and admin panels in a collaborative team environment  
 
----
 
 ## 📂 Projects
 
@@ -34,7 +29,6 @@ Tools: Git, GitHub, Postman, MVC Architecture, Responsive Design
 - Users can register, log in, book shipments, and track routes  
 - Admin can manage vehicles, drivers, trips, income/expenses, and generate reports  
 
----
 
 ## 🌐 Connect with Me
 - GitHub: [github.com/AnsarSultan](https://github.com/AnsarSultan)  
