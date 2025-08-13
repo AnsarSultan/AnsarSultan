@@ -1,6 +1,5 @@
-# Hi, I'm Ansar Sultan 👋
-
-🎯 **Full Stack Developer | Backend Enthusiast | Computer Science Graduate (2024)**  
+# Ansar Sultan 👋
+**Full Stack Developer**  
 
 I am an enthusiastic Computer Science graduate with a passion for **backend development**, **database design**, and building **scalable full-stack web applications**. I have hands-on experience in creating real-world systems with secure authentication, role-based access, and clean, responsive UI/UX.
 
