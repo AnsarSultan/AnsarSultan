@@ -5,15 +5,15 @@ I am an enthusiastic Computer Science graduate with a passion for **backend deve
 
 ## 🚀 Skills
 
-**Front-End:** ReactJS, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS  
-**Back-End:** PHP, Laravel, Node.js, Express.js, RESTful APIs  
-**Databases:** MySQL,  MongoDB  
-**Tools:** Git, GitHub, Postman, MVC Architecture, Responsive Design  
+**Front-End:** HTML5, CSS3, Bootstrap, Tailwind CSS , JavaScript, ReactJS
+**Back-End:** Node.js, Express.js, PHP, Laravel, RESTful APIs  
+**Databases:** MongoDB, PostgreSQL, MySQL   
+**Tools:** Git, GitHub, Postman 
 
 ## 💼 Experience
 
 **Software Engineer Intern** — *Punjab IT Board, Lahore* (Sep 2024 – Jan 2025)  
-- Developed backend logic using **Laravel**  
+- Developed backend logic  
 - Worked on CRUD operations, authentication, and database management  
 - Built scalable modules and admin panels in a collaborative team environment  
 
