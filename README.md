@@ -1,14 +1,14 @@
 # Ansar Sultan
 **Full Stack Developer**  
 
-I am a  Computer Science graduate with a passion for **backend development**, **database design**, and building **scalable full-stack web applications**. I have hands-on experience in creating real-world systems with secure authentication, role-based access, and clean, responsive UI/UX.
+I am a Computer Science graduate with a passion for **backend development**, **database design**, and building **scalable full-stack web applications**. I have hands-on experience in creating real-world systems with secure authentication, role-based access, and clean, responsive UI/UX.
 
 ## 🚀 Skills
 
-**Front-End:** HTML5, CSS3, Bootstrap, Tailwind CSS , JavaScript, ReactJS
-**Back-End:** Node.js, Express.js, PHP, Laravel, RESTful APIs
-**Databases:** MongoDB, PostgreSQL, MySQL   
-**Tools:** Git, GitHub, Postman 
+**Front-End:** HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, ReactJS  
+**Back-End:** Node.js, Express.js, PHP, Laravel, RESTful APIs  
+**Databases:** MongoDB, PostgreSQL, MySQL  
+**Tools:** Git, GitHub, Postman  
 
 ## 💼 Experience
 
